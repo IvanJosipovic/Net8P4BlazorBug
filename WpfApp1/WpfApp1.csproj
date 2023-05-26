@@ -12,10 +12,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebView.Wpf" Version="8.0.0-preview.4.8333" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0-preview.4.23259.5" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\RazorClassLibrary1\RazorClassLibrary1.csproj" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.0-preview.4.23260.4" />
   </ItemGroup>
 
 </Project>
